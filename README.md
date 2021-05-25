@@ -5,4 +5,4 @@ Humans | Computer | Tie
 ---------- | ------------- | ----
 19 | 174 | 2
 
-![gameplay](../main/connect4_gameplay.jpeg)
+![gameplay](../main/static/connect4_gameplay.jpeg)
